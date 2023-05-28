@@ -1,13 +1,21 @@
 
+![bannerSB](https://github.com/dexprimZ/StudyBuddy/assets/110420696/910bfb9c-96df-4d9b-88b7-0fa77167c74c)
 
-![bannerSB](https://github.com/dexprimZ/StudyBuddy/assets/110420696/4a582645-6071-48fd-8da5-c5f323ef99e1)
 
 
 # StudyBuddy
 
 <!-- ![[SBlogo|50]] -->
 <!-- ![[SBlogo|50](https://github.com/dexprimZ/StudyBuddy/assets/110420696/b1ca934b-91d5-4762-bc28-0e52c57602e0) -->
-<img width="180" alt="SBlogo" src="https://github.com/dexprimZ/StudyBuddy/assets/110420696/b1ca934b-91d5-4762-bc28-0e52c57602e0">
+<img width="180" alt="SBlogo" src="https://github.com/dexprimZ/StudyBuddy/assets/110420696/b49b6ab3-1f9a-4d52-a5aa-5e7f5b43a703">
+
+
+
+
+<!-- ![SBlogo](https://github.com/dexprimZ/StudyBuddy/assets/110420696/b49b6ab3-1f9a-4d52-a5aa-5e7f5b43a703) -->
+
+
+
 
 
 #### Productivity App For Students
@@ -20,24 +28,24 @@ Most Creative Use Of GitHub
 Best beginner Hack
   </br>
   </br>
-  </br>
 Made with replit and deployed on GitHub Pages
 </br>
 Live Project Link - <a href="https://dexprimz.github.io/StudyBuddy/">Click Here</a> 
 </i></b>
 
 </br>
-<img width="640" alt="StudyBuddy" src="https://github.com/dexprimZ/StudyBuddy/assets/110420696/eab535ce-ba2d-4877-8d95-0d7bc682ceee">
+<img width="640" alt="StudyBuddy" src="https://github.com/dexprimZ/StudyBuddy/assets/110420696/083e551e-c6e4-4a61-9942-0eb0d86b7069">
 </br>
 </br>
+
+<!-- ![SBthumb](https://github.com/dexprimZ/StudyBuddy/assets/110420696/083e551e-c6e4-4a61-9942-0eb0d86b7069) -->
+
 <i><b>
 Video Link - <a href="https://youtu.be/S9_p5hWrvcg">Click Here</a>
  </i></b>
+ </br>
 
-
-</br>
-
-### Run Locally
+## Run Locally
 
 Clone the project
 
@@ -63,33 +71,7 @@ Start the server
 </br>
 
 
-<img width="960" alt="Screenshot195412" src="https://github.com/dexprimZ/StudyBuddy/assets/110420696/99b8d5b7-3b94-44a9-8b81-8fad5cb59be2">
-
-
-</br>
-</br>
-
-<img width="960" alt="Screenshot195423" src="https://github.com/dexprimZ/StudyBuddy/assets/110420696/a986194d-6e2c-4354-b33a-4f9ee03e52af">
-
-
-</br>
-</br>
-
-<img width="960" alt="Screenshot195434" src="https://github.com/dexprimZ/StudyBuddy/assets/110420696/cfe7699a-06c8-4471-8c40-ed11209dce4e">
-
-
-</br>
-</br>
-
-
-<img width="960" alt="Screenshot195446" src="https://github.com/dexprimZ/StudyBuddy/assets/110420696/b6bb1fee-35e7-4192-9ca1-8be216374f4f">
-
-
-</br>
-</br>
-
-
-<img width="960" alt="Screenshot195455" src="https://github.com/dexprimZ/StudyBuddy/assets/110420696/175aa6f0-163d-460c-903e-621fdab42695">
+<img width="960" alt="Screenshot 2023-05-26 195412" src="https://github.com/dexprimZ/StudyBuddy/assets/110420696/4f6c09e4-056e-46b5-9e3c-90d8bd6b4962">
 
 
 
@@ -97,7 +79,16 @@ Start the server
 </br>
 
 
-<img width="960" alt="Screenshot195737" src="https://github.com/dexprimZ/StudyBuddy/assets/110420696/b045c83e-096f-4092-8f17-be98a1f84899">
+<img width="960" alt="Screenshot 2023-05-26 195423" src="https://github.com/dexprimZ/StudyBuddy/assets/110420696/7a5ae7c7-2b84-438d-a828-9306c464dea5">
+
+
+
+</br>
+</br>
+
+
+<img width="960" alt="Screenshot 2023-05-26 195434" src="https://github.com/dexprimZ/StudyBuddy/assets/110420696/10e4670e-ff61-45da-9065-facc3d41547f">
+
 
 
 </br>
@@ -105,6 +96,32 @@ Start the server
 
 
 
-<img width="960" alt="Screenshot195518" src="https://github.com/dexprimZ/StudyBuddy/assets/110420696/66422c6f-7c77-4a82-b9e5-eac8fd1b81b1">
+
+
+
+
+</br>
+</br>
+
+
+
+
+
+
+
+
+</br>
+</br>
+
+
+
+
+
+</br>
+</br>
+
+
+
+
 
 
