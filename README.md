@@ -71,7 +71,7 @@ Start the server
 </br>
 
 
-<img width="960" alt="Screenshot 2023-05-26 195412" src="https://github.com/dexprimZ/StudyBuddy/assets/110420696/4f6c09e4-056e-46b5-9e3c-90d8bd6b4962">
+<img width="960" alt="Screenshot195412" src="https://github.com/dexprimZ/StudyBuddy/assets/110420696/4f6c09e4-056e-46b5-9e3c-90d8bd6b4962">
 
 
 
@@ -79,7 +79,7 @@ Start the server
 </br>
 
 
-<img width="960" alt="Screenshot 2023-05-26 195423" src="https://github.com/dexprimZ/StudyBuddy/assets/110420696/7a5ae7c7-2b84-438d-a828-9306c464dea5">
+<img width="960" alt="Screenshot195423" src="https://github.com/dexprimZ/StudyBuddy/assets/110420696/7a5ae7c7-2b84-438d-a828-9306c464dea5">
 
 
 
@@ -87,16 +87,7 @@ Start the server
 </br>
 
 
-<img width="960" alt="Screenshot 2023-05-26 195434" src="https://github.com/dexprimZ/StudyBuddy/assets/110420696/10e4670e-ff61-45da-9065-facc3d41547f">
-
-
-
-</br>
-</br>
-
-
-
-
+<img width="960" alt="Screenshot195434" src="https://github.com/dexprimZ/StudyBuddy/assets/110420696/10e4670e-ff61-45da-9065-facc3d41547f">
 
 
 
@@ -105,7 +96,7 @@ Start the server
 
 
 
-
+<img width="960" alt="Screenshot195446" src="https://github.com/dexprimZ/StudyBuddy/assets/110420696/47308b5a-f2bb-4d66-8e5b-00198d504f06">
 
 
 
@@ -117,11 +108,21 @@ Start the server
 
 
 
+<img width="960" alt="Screenshot195455" src="https://github.com/dexprimZ/StudyBuddy/assets/110420696/f16aac58-fbd4-4e4e-a3a2-5bafa3b95a7d">
+
+
+
 </br>
 </br>
 
 
+<img width="960" alt="Screenshot195737" src="https://github.com/dexprimZ/StudyBuddy/assets/110420696/c9cb994b-f08f-4525-ba48-1ab99be529ef">
 
 
+
+</br>
+</br>
+
+<img width="960" alt="Screenshot195518" src="https://github.com/dexprimZ/StudyBuddy/assets/110420696/5daf103e-cb8f-4e6c-9b72-913e63614f17">
 
 
