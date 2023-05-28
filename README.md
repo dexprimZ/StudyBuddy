@@ -21,11 +21,12 @@ Best beginner Hack
   </br>
 Made with replit and deployed on GitHub Pages
 </br>
-Link - <a href="https://youtu.be/S9_p5hWrvcg">Click Here</a> 
+Live Project Link - <a href="https://dexprimz.github.io/StudyBuddy/">Click Here</a> 
 </i></b>
 
 </br>
 <img width="640" alt="StudyBuddy" src="https://github.com/dexprimZ/StudyBuddy/assets/110420696/eab535ce-ba2d-4877-8d95-0d7bc682ceee">
+</br>
 </br>
 <i><b>
 Video Link - <a href="https://youtu.be/S9_p5hWrvcg">Click Here</a>
